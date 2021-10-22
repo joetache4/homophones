@@ -69,5 +69,5 @@ So, although *rose* (the flower) and *rose* (past tense of *rise*) are homophone
 
 ## TODO
 - Filter out words that violate rules under "Excluded words" section. Particularly, jargon and obsolete words.
-- Throw out currencies like *réis* and *birr*? Maybe add "foreign words" to blacklist.
+- Throw out currency names like *réis* and *birr*? Maybe add "foreign words" to blacklist, if they're not already banned for not being English.
 - Allow single letters? Are they considered "words"?
