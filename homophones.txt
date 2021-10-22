@@ -134,6 +134,7 @@ core corps
 council counsel
 councillor counselor
 court quart
+coward cowered
 coy koi
 creak creek
 cream creme
@@ -376,9 +377,8 @@ point pointe
 polar poler poller
 pole poll
 pomace pumice
-poor pore pour
 populace populous
-pores pours
+pore pour
 praise prays preys
 pray prey
 presence presents
@@ -639,5 +639,6 @@ you'll yule
 § courts quarts quartz
 § coward cowered cowherd
 § penal penile
+§ poor pore pour
 § soot suit
 § wanton wonton
