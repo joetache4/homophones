@@ -55,10 +55,10 @@ So, although *rose* (the flower) and *rose* (past tense of *rise*) are homophone
 - **interjections**
   - e.g., *hi*, *whoa*, *oh*, *ho*, *uh*, *hey*
 - **names of letters and their plurals**
-  - e.g., e.g., *cee*, *J*, *rhos*
+  - e.g., *cee*, *J*, *rhos*
   - Exception: The singular of certain Greek letters are allowed because they have actual meaning in English (e.g., *pi*, which is a mathematical constant).
 - **digits**
-  - e.g., e.g., *1*, *2*, *4*, *4th*, *6*, *8*
+  - e.g., *1*, *2*, *4*, *4th*, *6*, *8*
   - Note: *one*, *two*, etc. ARE included.
 
 ## Sources
