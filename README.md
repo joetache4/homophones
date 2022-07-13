@@ -4,20 +4,18 @@ This is a list of English homophones.
 
 ## Definition
 
-Wiktionary [defines](https://en.wiktionary.org/wiki/homophone#Noun) a homophone as
-1. a word which is pronounced the same as another word but differs in spelling *or* meaning *or* origin.
-1. a letter or group of letters which are pronounced the same as another letter or group of letters.
+The following criteria is used to determine if two or more words belong on this list. The words
+1. are English,
+1. are whole words,
+1. have the same pronunciation,
+1. have different meanings, *and*
+1. have different spellings.
 
-This list uses the second definition, meaning two or more words are English homophones if and only if
-1. they are English,
-1. they sound the same, and
-1. are spelled differently.
-
-So, although *rose* (the flower) and *rose* (past tense of *rise*) are homophones according to the first definition, they are not according to the definition used in this list.
+Note that the dictionary usually defines "homophone" as a word with the same pronunciation as another but with a different meaning *or* spelling. However, this definition is far too inclusive for the purposes of this list, and it would potentially require the inclusion of many words with insignificant alternative meanings.
 
 ## Notes about this list
 - This list assumes standard US pronunciation and spelling.
-- This list is alphabetized within and between lines. Words are separated by a single space. Alternative spellings are separted with a slash.
+- This list is alphabetized within and between lines. Words are separated by a single space. Alternative spellings are separated with a slash.
   - Example: "*grade grayed/greyed*"
 - Contractions are included.
 - Some words appear in the list multiple times due to different pronunciations (e.g., *bow*, *we're*) or with weak homophones.
@@ -54,11 +52,11 @@ So, although *rose* (the flower) and *rose* (past tense of *rise*) are homophone
   - e.g., *AIDS*, *Col.*
 - **interjections**
   - e.g., *hi*, *whoa*, *oh*, *ho*, *uh*, *hey*
-- **names of letters and their plurals**
-  - e.g., *cee*, *J*, *rhos*
+- **(names of) individual letters and their plurals**
+  - e.g., *cee*, *J*, *q*, *rhos*
   - Exception: The singular of certain Greek letters are allowed because they have actual meaning in English (e.g., *pi*, which is a mathematical constant).
 - **digits**
-  - e.g., *1*, *2*, *4*, *4th*, *6*, *8*
+  - e.g., *1*, *2*, *2nd*, *4*, *4th*, *6*, *8*
   - Note: *one*, *two*, etc. ARE included.
 
 ## Sources
@@ -68,6 +66,7 @@ So, although *rose* (the flower) and *rose* (past tense of *rise*) are homophone
 - https://web.archive.org/web/20180618173135/http://people.sc.fsu.edu/~jburkardt/fun/wordplay/multinyms.html
 
 ## TODO
-- Filter out words that violate rules under "Excluded words" section. Particularly, jargon and obsolete words.
-- Throw out currency names like *réis* and *birr*? Maybe add "foreign words" to blacklist, if they're not already banned for not being English.
+- Filter out words that violate rules under the "Excluded words" section. Particularly, jargon and obsolete words.
+- Throw out currency names like *réis* and *birr*? Maybe add "foreign words" to the blacklist, if they're not already banned for not being English.
 - Allow single letters? Are they considered "words"?
+- Include homophones that are spelled the same?
